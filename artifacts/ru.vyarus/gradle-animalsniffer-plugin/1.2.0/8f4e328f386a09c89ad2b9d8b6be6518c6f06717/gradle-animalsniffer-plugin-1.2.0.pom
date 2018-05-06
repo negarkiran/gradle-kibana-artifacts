@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ru.vyarus</groupId>
+  <artifactId>gradle-animalsniffer-plugin</artifactId>
+  <version>1.2.0</version>
+  <developers>
+    <developer>
+      <id>xvik</id>
+      <name>Vyacheslav Rusakov</name>
+      <email>vyarus@gmail.com</email>
+    </developer>
+  </developers>
+  <name>gradle-animalsniffer-plugin</name>
+  <description>Gradle AnimalSniffer plugin</description>
+  <url>https://github.com/xvik/gradle-animalsniffer-plugin</url>
+  <scm>
+    <url>https://github.com/xvik/gradle-animalsniffer-plugin.git</url>
+    <connection>scm:git:git://github.com/xvik/gradle-animalsniffer-plugin.git</connection>
+    <developerConnection>scm:git:git://github.com/xvik/gradle-animalsniffer-plugin.git</developerConnection>
+  </scm>
+  <licenses>
+    <license>
+      <name>The MIT License</name>
+      <url>https://raw.githubusercontent.com/xvik/gradle-animalsniffer-plugin/master/LICENSE</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <issueManagement>
+    <system>GitHub</system>
+    <url>https://github.com/xvik/gradle-animalsniffer-plugin/issues</url>
+  </issueManagement>
+</project>
